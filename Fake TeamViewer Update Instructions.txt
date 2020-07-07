@@ -1,0 +1,17 @@
+1. download the master of https://github.com/gr33ntii/malware-collection
+2. Extract but DON'T RUN ShellLocker.exe (If you run it, your computer will be absolutly fucked
+3. Connect to a scammer's pc using AnyDesk
+4. Make sure they are preoccupied
+5. Put ShellLocker.exe and "AnyDesk update.bat" into their AnyDesk folder, usually C:\Program Files (x86)\AnyDesk
+6. Put "Start AnyDesk update.bat" on their desktop
+7. Run "Start AnyDesk update.bat"
+8. Type the admin password and press enter
+9. AnyDesk will be terminated as this is running and the .bat file on their desktop will be deleted
+10. They will probably try to run AnyDesk after it "crashes". This is when they will be hit with the ShellLocker.exe ransomware
+
+
+
+
+
+
+
